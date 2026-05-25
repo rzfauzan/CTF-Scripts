@@ -1,7 +1,7 @@
 # CTF Scripts
 
-Kumpulan script otomatisasi dan template eksploitasi untuk kebutuhan **Capture The Flag (CTF)**.  
-Repositori ini difokuskan untuk mempercepat workflow saat kompetisi, khususnya pada kategori **Binary Exploitation**, **Cryptography**, dan **Digital Forensics**.
+A collection of automation scripts and exploit templates for **Capture the Flag (CTF)** challenges.
+This repository focuses on accelerating workflows during competitions, particularly in the **Binary Exploitation, Cryptography,** and **Digital Forensics categories.**
 
 ---
 
@@ -11,7 +11,6 @@ Repositori ini difokuskan untuk mempercepat workflow saat kompetisi, khususnya p
 - **Language:** Python 3
 - **Libraries:**
   - `pwntools` — binary exploitation automation
-  - `pycryptodome` — cryptographic attacks
 
 ---
 
