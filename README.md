@@ -19,7 +19,7 @@ This repository focuses on accelerating workflows during competitions, particula
 | Module | Description | Technical Focus |
 |--------|-------------|-----------------|
 | **Binex** | Exploit development for vulnerable binaries | ASLR/NX/PIE Bypass, Canary Leak, ROP, Format String |
-| **Crypto** | Cryptanalysis and decryption scripts | AES Modes, RSA Attacks, Number Theory |
+| **Crypto** | Cryptanalysis and decryption scripts | AES Modes and RSA Attacks |
 | **Forensics** | Digital artifact and traffic analysis | PCAP Analysis, Metadata, Blockchain Trace |
 
 ---
